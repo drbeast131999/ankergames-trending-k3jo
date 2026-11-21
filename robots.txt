@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drbeast131999.github.io/ankergames-trending-k3jo/sitemap.xml
